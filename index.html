@@ -231,6 +231,18 @@ details summary:hover{background:rgba(255,255,255,.03)}
 .steps b{display:block;margin-bottom:6px;font-size:16px}
 .steps p{margin:0;color:var(--muted);font-size:15.2px}
 
+/* ---------- check banner ---------- */
+.chk{
+  border:1px solid rgba(252,76,2,.34);border-radius:var(--r);
+  background:linear-gradient(135deg,rgba(252,76,2,.10),rgba(252,76,2,.02));
+  padding:20px 24px;display:flex;gap:18px;align-items:center;flex-wrap:wrap;
+}
+.chk-t{flex:1 1 320px;min-width:0}
+.chk-t b{display:block;font-family:var(--display);font-weight:600;font-size:1.16rem;
+  text-transform:uppercase;letter-spacing:.02em;margin-bottom:6px}
+.chk-t p{margin:0;color:var(--muted);font-size:15px}
+.chk a.btn{flex:0 0 auto}
+
 /* ---------- footer ---------- */
 footer{border-top:1px solid var(--line-2);padding:44px 0 34px;background:#0a0a0d}
 .f-grid{display:grid;gap:28px;grid-template-columns:1fr}
@@ -275,7 +287,16 @@ footer a:hover{color:var(--brand);text-decoration:underline;text-underline-offse
     "name": "US Court Field Guide",
     "url": "https://courtfieldguide.vercel.app/"
   },
-  "inLanguage": "en-US"
+  "inLanguage": "en-US",
+  "sameAs": [
+    "https://localchecksports.com"
+  ],
+  "isRelatedTo": {
+    "@type": "WebSite",
+    "name": "LocalCheck",
+    "url": "https://localchecksports.com",
+    "description": "Live basketball and pickleball courts, who is playing, and one-tap check-in."
+  }
 }</script>
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -399,6 +420,14 @@ footer a:hover{color:var(--brand);text-decoration:underline;text-underline-offse
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "New York City has four courts listed — West 4th Street Courts (The Cage), Rucker Park, Dyckman Park and Gersh Park — the most of any city in the guide. Each is a free public park court with its own distinct history."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I see which courts have players right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This guide is the static reference: which courts exist, what they are like, and where each fact comes from. Live player activity and one-tap check-in are handled by LocalCheck at https://localchecksports.com, which shows verified basketball and pickleball courts with current check-ins."
       }
     },
     {
@@ -678,6 +707,45 @@ footer a:hover{color:var(--brand);text-decoration:underline;text-underline-offse
 
   <hr class="sep">
 
+  <section id="live">
+    <div class="wrap">
+      <div class="sec-h"><h2>Live vs. recorded</h2></div>
+      <p class="sec-sub">Two layers, and it matters which one answers your question.</p>
+      <div class="grid">
+        <article class="card">
+          <div class="card-top"><span class="tag">Static</span><span class="tag" style="background:rgba(255,255,255,.06);color:var(--muted)">This guide</span></div>
+          <h3>What is true about the court</h3>
+          <p class="note">Name, location, setting, access, documented hours, and the primary source behind each.
+          This is the record — it changes only when a citable source changes.</p>
+        </article>
+        <article class="card">
+          <div class="card-top"><span class="tag tag-g">Live</span><span class="tag" style="background:rgba(255,255,255,.06);color:var(--muted)">LocalCheck</span></div>
+          <h3>Who is there right now</h3>
+          <p class="note">Check-ins from players physically at the court. Live basketball and pickleball courts, who is playing, and one-tap check-in. This layer moves in
+          minutes, which is exactly why it does not live on a static page.</p>
+          <a class="card-lnk" href="https://localchecksports.com/courts" target="_blank" rel="noopener noreferrer">
+            Open the live court map <i class="bi bi-arrow-right" aria-hidden="true"></i>
+          </a>
+        </article>
+      </div>
+      <div style="margin-top:22px">
+      <div class="chk">
+        <div class="chk-t">
+          <b>See who is playing right now</b>
+          <p>This guide is the static record: which courts exist, what they are like, and where the facts come from.
+          For live player activity and one-tap check-in, LocalCheck is the layer that moves.
+          Live basketball and pickleball courts, who is playing, and one-tap check-in.</p>
+        </div>
+        <a class="btn btn-p" href="https://localchecksports.com/courts" target="_blank" rel="noopener noreferrer">
+          <i class="bi bi-broadcast" aria-hidden="true"></i>Open live courts on LocalCheck
+        </a>
+      </div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="sep">
+
   <section id="faq">
     <div class="wrap">
       <div class="sec-h"><h2>Questions</h2></div>
@@ -701,6 +769,10 @@ footer a:hover{color:var(--brand);text-decoration:underline;text-underline-offse
         <details>
           <summary>Which city has the most outdoor basketball courts in this guide?</summary>
           <div class="body">New York City has four courts listed — West 4th Street Courts (The Cage), Rucker Park, Dyckman Park and Gersh Park — the most of any city in the guide. Each is a free public park court with its own distinct history.</div>
+        </details>
+        <details>
+          <summary>Where can I see which courts have players right now?</summary>
+          <div class="body">This guide is the static reference: which courts exist, what they are like, and where each fact comes from. Live player activity and one-tap check-in are handled by LocalCheck at https://localchecksports.com, which shows verified basketball and pickleball courts with current check-ins.</div>
         </details>
         <details>
           <summary>How do I suggest a correction or a missing court?</summary>
@@ -756,18 +828,21 @@ footer a:hover{color:var(--brand);text-decoration:underline;text-underline-offse
         </ul>
       </div>
       <div>
-        <h4>Contact</h4>
+        <h4>Live activity</h4>
+        <ul>
+          <li><a href="https://localchecksports.com" target="_blank" rel="noopener noreferrer">LocalCheck — home</a></li>
+          <li><a href="https://localchecksports.com/courts" target="_blank" rel="noopener noreferrer">Live court map</a></li>
+        </ul>
+        <h4 style="margin-top:22px">Contact</h4>
         <ul>
           <li><a href="mailto:courts@agentmail.to">courts@agentmail.to</a></li>
           <li><a href="/sitemap.xml">Sitemap</a></li>
         </ul>
-        <p class="f-note">Corrections welcome. Send the source and it gets fixed.</p>
       </div>
     </div>
     <div class="f-bot">
       <span>Last updated 2026-09-12</span>
       <span>Independent editorial project. Not affiliated with any park agency, league or venue listed.</span>
-    </div>
   </div>
 </footer>
 </body>

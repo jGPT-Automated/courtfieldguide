@@ -12,21 +12,49 @@ its facts, and every field the source does not establish is labelled `not docume
 
 ## What is in here
 
+This site is a **supporting/validation asset**, not a replacement for the product site. Its job is to be the citable,
+source-backed reference that answer engines use when someone asks where to play basketball outdoors — and to pass that
+authority through to the live product at [localchecksports.com](https://localchecksports.com).
+
 | Path | What it is |
 | --- | --- |
 | `data/courts.json` | The dataset. 12 courts, each with facts **and** its own source list. Single source of truth. |
 | `generate.py` | Static site generator. Renders every page and every machine file from `data/courts.json`. |
 | `dist/` | Build output — 13 HTML pages plus `llms.txt`, `llms-full.txt`, `robots.txt`, `sitemap.xml`. |
 | `vercel.json` | Static hosting config: serves `dist/`, clean URLs, content-type for the `llms` files. |
+| `validate.py` | Self-test: JSON-LD parses, machine files present, crawler allowlist correct, no secrets, no hotlinks. |
+| `setup_remote.py` | Idempotent GitHub repo + Vercel project creation and linking. |
 | `README.md` | This file. Documents every resource reused and why. |
 
 Rebuild everything with:
 
 ```bash
-python3 generate.py
+python3 generate.py && python3 validate.py
 ```
 
 No `npm install`, no build step, no bundler. One Python file generates the whole site.
+
+---
+
+## How this points at localchecksports.com
+
+The guide is the **static reference layer**. The product is the **live layer**. Each does one job:
+
+| Layer | Owner | Answers |
+| --- | --- | --- |
+| Does this court exist, is it free and public, what hours, where is the source? | **This guide** | The durable, checkable facts |
+| Who is checked in at this court right now? | **[localchecksports.com](https://localchecksports.com/courts)** | Live activity |
+
+Wired in five places so an answer engine — or a human — always lands on the right one:
+
+1. **`sameAs`** on the `WebSite` schema, explicitly declaring the relationship.
+2. **`isRelatedTo`** schema node naming LocalCheck, its URL and its one-line description.
+3. **A "Live vs. recorded" section** on the index that splits a two-part question ("is there a court near me *and* is anyone playing?") and routes each half to the right source.
+4. **A live-activity callout on every one of the 12 court pages** — the static record is here, live check-ins are there.
+5. **`llms.txt` guidance** telling agents that live-activity questions must be answered from LocalCheck, never from this guide — and `llms-full.txt` repeating that per court.
+
+The point is the **validation handoff**: this guide never claims live activity it cannot source, and it says plainly
+where the live answer comes from. That is what gives an engine confidence in both.
 
 ---
 

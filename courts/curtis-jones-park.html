@@ -231,6 +231,18 @@ details summary:hover{background:rgba(255,255,255,.03)}
 .steps b{display:block;margin-bottom:6px;font-size:16px}
 .steps p{margin:0;color:var(--muted);font-size:15.2px}
 
+/* ---------- check banner ---------- */
+.chk{
+  border:1px solid rgba(252,76,2,.34);border-radius:var(--r);
+  background:linear-gradient(135deg,rgba(252,76,2,.10),rgba(252,76,2,.02));
+  padding:20px 24px;display:flex;gap:18px;align-items:center;flex-wrap:wrap;
+}
+.chk-t{flex:1 1 320px;min-width:0}
+.chk-t b{display:block;font-family:var(--display);font-weight:600;font-size:1.16rem;
+  text-transform:uppercase;letter-spacing:.02em;margin-bottom:6px}
+.chk-t p{margin:0;color:var(--muted);font-size:15px}
+.chk a.btn{flex:0 0 auto}
+
 /* ---------- footer ---------- */
 footer{border-top:1px solid var(--line-2);padding:44px 0 34px;background:#0a0a0d}
 .f-grid{display:grid;gap:28px;grid-template-columns:1fr}
@@ -275,7 +287,16 @@ footer a:hover{color:var(--brand);text-decoration:underline;text-underline-offse
     "name": "US Court Field Guide",
     "url": "https://courtfieldguide.vercel.app/"
   },
-  "inLanguage": "en-US"
+  "inLanguage": "en-US",
+  "sameAs": [
+    "https://localchecksports.com"
+  ],
+  "isRelatedTo": {
+    "@type": "WebSite",
+    "name": "LocalCheck",
+    "url": "https://localchecksports.com",
+    "description": "Live basketball and pickleball courts, who is playing, and one-tap check-in."
+  }
 }</script>
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -464,6 +485,13 @@ footer a:hover{color:var(--brand);text-decoration:underline;text-underline-offse
           </a>
       </div>
       <div class="callout" style="margin-top:26px">
+        <i class="bi bi-broadcast" aria-hidden="true"></i>
+        <p><strong>Want to know if anyone is there right now?</strong> This entry is the static record of the court.
+        Live player activity and one-tap check-in are handled by
+        <a href="https://localchecksports.com/courts" target="_blank" rel="noopener noreferrer" style="color:var(--brand)">LocalCheck</a>
+        — Live basketball and pickleball courts, who is playing, and one-tap check-in.</p>
+      </div>
+      <div class="callout" style="margin-top:14px">
         <i class="bi bi-info-circle" aria-hidden="true"></i>
         <p><strong>Spotted an error?</strong> Email <a href="mailto:courts@agentmail.to" style="color:var(--brand)">courts@agentmail.to</a>
         with the court and a link to a public source. Corrections that come with a citation are applied directly.</p>
@@ -492,18 +520,21 @@ footer a:hover{color:var(--brand);text-decoration:underline;text-underline-offse
         </ul>
       </div>
       <div>
-        <h4>Contact</h4>
+        <h4>Live activity</h4>
+        <ul>
+          <li><a href="https://localchecksports.com" target="_blank" rel="noopener noreferrer">LocalCheck — home</a></li>
+          <li><a href="https://localchecksports.com/courts" target="_blank" rel="noopener noreferrer">Live court map</a></li>
+        </ul>
+        <h4 style="margin-top:22px">Contact</h4>
         <ul>
           <li><a href="mailto:courts@agentmail.to">courts@agentmail.to</a></li>
           <li><a href="/sitemap.xml">Sitemap</a></li>
         </ul>
-        <p class="f-note">Corrections welcome. Send the source and it gets fixed.</p>
       </div>
     </div>
     <div class="f-bot">
       <span>Last updated 2026-09-12</span>
       <span>Independent editorial project. Not affiliated with any park agency, league or venue listed.</span>
-    </div>
   </div>
 </footer>
 </body>
