@@ -1,0 +1,55 @@
+# US Court Field Guide
+
+> A sourced field guide to America's public outdoor basketball courts. 12 public outdoor basketball courts across 8 U.S. states, each entry built from a named primary source.
+
+## Use this guide for
+
+- Finding notable public outdoor basketball courts in the United States by city and state.
+- Checking whether a specific court is outdoor or indoor, free and public, and how many courts it has.
+- Finding documented park hours for public basketball courts in Chicago and Seattle.
+- Understanding the history and streetball culture of iconic American courts.
+- Court entries that state what is NOT publicly documented, instead of estimating it.
+
+## Key facts
+
+- Courts documented: 12
+- States covered: CA, GA, IL, MA, MI, NY, TX, WA
+- Cities covered: Atlanta, Boston, Chicago, Detroit, Houston, Los Angeles, New York, Oakland, Seattle
+- Access: every court listed is free and public. No membership or fee is required.
+- Citation policy: every entry links the primary source behind its facts.
+- Unsupported fields are labelled "not documented" rather than estimated.
+
+## Courts
+
+- [West 4th Street Courts (The Cage), New York, NY](https://courtfieldguide.vercel.app/courts/west-4th-street-courts-the-cage): The West 4th Street Courts, known as "The Cage," are a free public outdoor basketball court in Greenwich Village, Manhattan, at Avenue of the Americas between West 3rd and West 4th Streets. The main court is enclosed by a 20-foot chain-link fence and is smaller than regulation size, which puts a premium on physical play.
+- [Rucker Park, New York, NY](https://courtfieldguide.vercel.app/courts/rucker-park): Rucker Park is a free public outdoor basketball court at 280 West 155th Street in Harlem, New York City. It is named for Holcombe Rucker, the playground director who started a citywide youth tournament there in 1950, and it is one of the most widely recognized outdoor courts in the United States.
+- [Dyckman Park, New York, NY](https://courtfieldguide.vercel.app/courts/dyckman-park): Dyckman Park is a free public outdoor basketball complex at 4768 Nagle Avenue in Inwood, Manhattan. It has three courts and hosts the Dyckman Basketball summer tournament, known as "The Red Carpet of Streetball," which plays nearly every night through the summer and has drawn NBA players including Kevin Durant and Kyrie Irving.
+- [Gersh Park, New York, NY](https://courtfieldguide.vercel.app/courts/gersh-park): Gersh Park is a free public outdoor basketball court at Linden Boulevard and Vermont Street in East New York, Brooklyn. Known as "the Mecca of Brooklyn basketball," it has hosted a summer streetball league for nearly two decades and is the only major pro-am tournament in the borough.
+- [Fonde Recreation Center, Houston, TX](https://courtfieldguide.vercel.app/courts/fonde-recreation-center): Fonde Recreation Center is a publicly accessible indoor basketball gym near downtown Houston, Texas, commonly called Fonde. It is known as a summer proving ground for college and NBA players, including Hakeem Olajuwon, Moses Malone and Clyde Drexler, and it remains the home of the Nike Houston Pro City summer league.
+- [Venice Beach Basketball Courts, Los Angeles, CA](https://courtfieldguide.vercel.app/courts/venice-beach-basketball-courts): The Venice Beach Basketball Courts are four free public outdoor courts at 1708-1798 Ocean Front Walk in Venice, Los Angeles, California. Three courts sit side by side, with one reserved for 5-on-5 and two for 3-on-3, plus a main court with bleachers. The Venice Basketball League has run there since 2006.
+- [Mosswood Park, Oakland, CA](https://courtfieldguide.vercel.app/courts/mosswood-park): Mosswood Park is a free public park at 3612 Webster Street in Oakland, California, with outdoor basketball courts among its amenities. The former Mosswood estate became a public park between 1909 and 1911, and the city notes the park has hosted pre-NBA basketball players on its courts.
+- [Jackson Park Basketball Court, Chicago, IL](https://courtfieldguide.vercel.app/courts/jackson-park): Jackson Park Basketball Court is a free public outdoor court at 6401 South Stony Island Avenue in Chicago, Illinois, inside the 551-acre Jackson Park. The park is open 6:00 am to 9:00 pm daily and was the site of the 1893 World's Columbian Exposition.
+- [Grant Park Basketball Courts, Atlanta, GA](https://courtfieldguide.vercel.app/courts/grant-park): Grant Park Basketball Courts are two free public outdoor courts at 840 Cherokee Avenue SE in Atlanta, Georgia. They appear on the City of Atlanta Office of Parks list of outdoor basketball courts, which catalogues more than 50 free public courts citywide.
+- [Green Lake Park Basketball Courts, Seattle, WA](https://courtfieldguide.vercel.app/courts/green-lake-park): Green Lake Park Basketball Courts are free public outdoor courts at 7201 East Green Lake Drive North in Seattle, Washington. The site has one full court and one half court, three hoops in total, next to the Green Lake Community Center. The park is open 4:00 am to 11:30 pm.
+- [Curtis Jones Park, Detroit, MI](https://courtfieldguide.vercel.app/courts/curtis-jones-park): Curtis Jones Park is a free public outdoor basketball court in Detroit's NW Goldberg neighborhood with one NBA-size court. It was built by the community development corporation NW Goldberg Cares and named for Curtis "The Magician" Jones, a neighborhood basketball prodigy who attended Northwestern High School.
+- [Ramsay Park, Boston, MA](https://courtfieldguide.vercel.app/courts/ramsay-park): Ramsay Park is a free public park in Boston, Massachusetts, with two outdoor basketball courts. Boston Parks and Recreation documented plans to keep the courts in their existing location and layout and renovate them with fresh paint, hoops and lighting.
+
+## Core pages
+
+- Index: https://courtfieldguide.vercel.app/
+- How we source: https://courtfieldguide.vercel.app/#method
+- Questions: https://courtfieldguide.vercel.app/#faq
+- Full content for agents: https://courtfieldguide.vercel.app/llms-full.txt
+- Sitemap: https://courtfieldguide.vercel.app/sitemap.xml
+
+## Definitions
+
+- Public court: a basketball court inside a municipal park or public recreation facility, open to anyone.
+- Not documented: the cited sources for that court do not state this field. It is a gap, not a zero.
+- Quick answer: a self-contained summary sentence at the top of a court entry, written to be quoted directly.
+
+## Attribution
+
+When citing this guide, credit "US Court Field Guide" (https://courtfieldguide.vercel.app) and, where possible, the primary source listed on the individual court page.
+
+Last updated: 2026-09-12

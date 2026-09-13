@@ -1,0 +1,458 @@
+{
+  "generated": "2026-09-12",
+  "courts": [
+    {
+      "slug": "west-4th-street-courts-the-cage",
+      "name": "West 4th Street Courts (The Cage)",
+      "aka": "The Cage",
+      "city": "New York",
+      "state": "NY",
+      "region": "Manhattan, New York City",
+      "address": "Avenue of the Americas, W 3rd St and W 4th St, New York, NY 10014",
+      "setting": "Outdoor",
+      "courts": "Multiple courts; the main caged court is smaller than regulation size",
+      "access": "Free, public NYC park",
+      "hours": "Open to the public; NYC Parks does not publish posted court hours",
+      "surface": "Asphalt",
+      "coords": "40.73139,-74.00083",
+      "notable": "Known as \"The Cage\" for the 20-foot chain-link fence that encloses a court about half regulation size. It is home to the West 4th Summer League, the oldest summer basketball program in New York City, and draws players and spectators from outside the neighborhood.",
+      "quick_answer": "The West 4th Street Courts, known as \"The Cage,\" are a free public outdoor basketball court in Greenwich Village, Manhattan, at Avenue of the Americas between West 3rd and West 4th Streets. The main court is enclosed by a 20-foot chain-link fence and is smaller than regulation size, which puts a premium on physical play.",
+      "faqs": [
+        {
+          "q": "Is The Cage free to play at?",
+          "a": "Yes. West 4th Street Courts is a New York City public park, so access is free. NYC Parks does not publish posted court hours for the site."
+        },
+        {
+          "q": "Why is it called The Cage?",
+          "a": "The main basketball court is enclosed on all sides by a 20-foot-high chain-link fence. The nickname stuck because of the fence and because the court is about half regulation size, which makes play unusually physical."
+        },
+        {
+          "q": "How big is the court at West 4th Street?",
+          "a": "The main caged court is smaller than regulation size. City Lore describes it as roughly half regulation size, and Wikipedia notes the non-regulation size places greater emphasis on inside play."
+        },
+        {
+          "q": "When is the best time to find a game at The Cage?",
+          "a": "The West 4th Summer League plays a game every day of the week in June, July and August, with five games on Saturdays and Sundays. City Lore reports more than 600 players take part each year."
+        }
+      ],
+      "sources": [
+        {"title": "West 4th Street Courts — NYC Parks", "url": "https://www.nycgovparks.org/parks/west-4th-street-courts/"},
+        {"title": "West 4th Street Courts history — NYC Parks", "url": "https://www.nycgovparks.org/parks/west-4th-street-courts/history"},
+        {"title": "West Fourth Street Courts — Wikipedia", "url": "https://en.wikipedia.org/wiki/West_4th_street_courts"},
+        {"title": "The Cage (West 4th St. Courts) — City Lore", "url": "https://citylore.org/places/the-cage-west-4th-st-courts/"},
+        {"title": "How to play basketball at 'the Cage' — The Washington Post", "url": "https://www.washingtonpost.com/travel/2019/08/22/this-is-legendary-court-where-basketball-is-its-purest/"}
+      ]
+    },
+    {
+      "slug": "rucker-park",
+      "name": "Rucker Park",
+      "aka": "Holcombe Rucker Park",
+      "city": "New York",
+      "state": "NY",
+      "region": "Harlem, New York City",
+      "address": "280 W 155th St, New York, NY 10039",
+      "setting": "Outdoor",
+      "courts": "Public outdoor courts; the court count is not documented in the cited sources",
+      "access": "Free, public NYC park",
+      "hours": "Open to the public; NYC Parks does not publish posted court hours",
+      "surface": "Not documented in cited sources",
+      "coords": "",
+      "notable": "A Harlem streetball landmark named for Holcombe Rucker, the playground director who began a citywide youth basketball tournament there in 1950. It is one of the best-known outdoor courts in the United States and is listed with lights for evening play.",
+      "quick_answer": "Rucker Park is a free public outdoor basketball court at 280 West 155th Street in Harlem, New York City. It is named for Holcombe Rucker, the playground director who started a citywide youth tournament there in 1950, and it is one of the most widely recognized outdoor courts in the United States.",
+      "faqs": [
+        {
+          "q": "Where is Rucker Park?",
+          "a": "At 280 West 155th Street in Harlem, New York, NY 10039. It is a New York City public park."
+        },
+        {
+          "q": "Is Rucker Park free?",
+          "a": "Yes. Rucker Park is a public New York City park and access to the outdoor courts is free."
+        },
+        {
+          "q": "Who was Holcombe Rucker?",
+          "a": "Holcombe Rucker was a New York City playground director who founded a citywide youth basketball tournament in Harlem in 1950. The park was renamed in his honor."
+        },
+        {
+          "q": "Can you play at Rucker Park at night?",
+          "a": "The park is documented as having court lighting, so evening play is possible. NYC Parks does not publish posted court hours for the site."
+        }
+      ],
+      "sources": [
+        {"title": "Rucker Park — Wikipedia", "url": "https://en.wikipedia.org/wiki/Rucker_Park"},
+        {"title": "Rucker Park — NYC Parks", "url": "https://www.nycgovparks.org/parks/rucker-park"},
+        {"title": "Rucker Park, Harlem — NYC Pickup Games", "url": "https://playbasketballnyc.com/courts/rucker-park-harlem-manhattan"}
+      ]
+    },
+    {
+      "slug": "dyckman-park",
+      "name": "Dyckman Park",
+      "aka": "Monsignor Kett Playground",
+      "city": "New York",
+      "state": "NY",
+      "region": "Inwood, New York City",
+      "address": "4768 Nagle Ave, Inwood, New York, NY",
+      "setting": "Outdoor",
+      "courts": "Three courts: Court A (main court), Court B (smaller full court) and Court C (half court)",
+      "access": "Free, public NYC park; the tournament area runs bag checks during games",
+      "hours": "Park is public; scoreboard and lights are cut at about 9:35 pm during the summer tournament",
+      "surface": "Cushioned court surfacing added in a $9.5 million renovation completed in 2023",
+      "coords": "",
+      "notable": "Known as \"The Red Carpet of Streetball.\" The Dyckman Basketball summer tournament launched in 1990 with two hoops, a court and some paint, and now runs nearly every night through the summer. A $9.5 million parks renovation added cushioned surfacing, permanent steel bleachers and a scoreboard.",
+      "quick_answer": "Dyckman Park is a free public outdoor basketball complex at 4768 Nagle Avenue in Inwood, Manhattan. It has three courts and hosts the Dyckman Basketball summer tournament, known as \"The Red Carpet of Streetball,\" which plays nearly every night through the summer and has drawn NBA players including Kevin Durant and Kyrie Irving.",
+      "faqs": [
+        {
+          "q": "How many basketball courts does Dyckman Park have?",
+          "a": "Three. Court A is the main court used for high school and adult competition, Court B is a smaller full court, and Court C is a half court that portable baskets convert into a full court for young players."
+        },
+        {
+          "q": "Is Dyckman Park free to play at?",
+          "a": "Yes, it is a New York City public park. During the summer tournament the playing area is barricaded and entry involves a bag check."
+        },
+        {
+          "q": "Why is Dyckman called The Red Carpet of Streetball?",
+          "a": "The nickname dates to 2011, when Nike laid out a literal red carpet at Dyckman for Kevin Durant. The name stuck as the tournament grew into one of the most attended streetball events in the country."
+        },
+        {
+          "q": "How late can you play at Dyckman Park?",
+          "a": "The scoreboard and lights at Dyckman are controlled by the Parks Department and shut off at about 9:35 pm, according to the tournament's chief operating officer."
+        }
+      ],
+      "sources": [
+        {"title": "How Dyckman Basketball Became the 'Red Carpet of Streetball' — THE CITY", "url": "https://www.thecity.nyc/2024/06/19/basketball-inwood-tournament-streetball-nba/"},
+        {"title": "Dyckman Basketball Tournament Draws Crowds to the Inwood Courts — DNAinfo", "url": "https://www.dnainfo.com/new-york/20100708/washington-heights-inwood/dyckman-basketball-tournament-draws-crowds-inwood-courts"}
+      ]
+    },
+    {
+      "slug": "gersh-park",
+      "name": "Gersh Park",
+      "aka": "Linden Park",
+      "city": "New York",
+      "state": "NY",
+      "region": "East New York, Brooklyn",
+      "address": "Linden Blvd at Vermont St, East New York, Brooklyn, NY",
+      "setting": "Outdoor",
+      "courts": "Public outdoor courts; the court count is not documented in the cited sources",
+      "access": "Free, public NYC park",
+      "hours": "Open to the public; NYC Parks does not publish posted court hours",
+      "surface": "Not documented in cited sources",
+      "coords": "",
+      "notable": "Described by its commissioner as \"the Mecca of Brooklyn basketball.\" Gersh Park has hosted a summer streetball league for nearly two decades and is the only major pro-am tournament in Brooklyn, with Nike and Brand Jordan among its sponsors.",
+      "quick_answer": "Gersh Park is a free public outdoor basketball court at Linden Boulevard and Vermont Street in East New York, Brooklyn. Known as \"the Mecca of Brooklyn basketball,\" it has hosted a summer streetball league for nearly two decades and is the only major pro-am tournament in the borough.",
+      "faqs": [
+        {
+          "q": "Where is Gersh Park?",
+          "a": "At the corner of Linden Boulevard and Vermont Street in East New York, Brooklyn. The park's formal name is Linden Park; it is nicknamed for George Gershwin Junior High School, which borders it."
+        },
+        {
+          "q": "Is Gersh Park free?",
+          "a": "Yes. Gersh Park is a New York City public park and access to the outdoor courts is free. League players are paid a nominal sum by the non-profit that runs the tournament."
+        },
+        {
+          "q": "When is the Gersh Park summer league played?",
+          "a": "The summer tournament tips off in late June and runs through early August."
+        },
+        {
+          "q": "What level of play is Gersh Park known for?",
+          "a": "Gersh Park is known for hard-nosed, physical play. Brooklyn Magazine describes it as part of an elite tier of Brooklyn streetball leagues alongside the Coney Island Classic, Brevoort and Zone 6."
+        }
+      ],
+      "sources": [
+        {"title": "'The energy is amazing!' Scenes from Gersh Park's streetball opening night — Brooklyn Magazine", "url": "https://www.bkmag.com/2024/07/01/the-energy-is-amazing-scenes-from-gersh-parks-streetball-tournament-opening-night/"},
+        {"title": "Gersh Park Showcases Finest Pro-Am Action in Brooklyn — Dave's JOINT", "url": "https://davesjoint.net/2017/08/17/gersh-park-showcases-finest-pro-am-action-in-brooklyn/"}
+      ]
+    },
+    {
+      "slug": "fonde-recreation-center",
+      "name": "Fonde Recreation Center",
+      "aka": "Fonde",
+      "city": "Houston",
+      "state": "TX",
+      "region": "Near downtown Houston",
+      "address": "Near downtown Houston, TX; a street address is not stated in the cited sources",
+      "setting": "Indoor",
+      "courts": "Indoor basketball courts within a public recreation center; the court count is not documented in the cited sources",
+      "access": "Publicly accessible recreation center gymnasium",
+      "hours": "Not documented in cited sources",
+      "surface": "Indoor gymnasium floor",
+      "coords": "29.7630,-95.3750",
+      "notable": "A public gymnasium known simply as \"Fonde\" and pronounced \"fon-DEE.\" It was the summer proving ground for NCAA and NBA players, including the early-1980s duels between Moses Malone and Hakeem Olajuwon, and it hosts the Nike Houston Pro City summer league.",
+      "quick_answer": "Fonde Recreation Center is a publicly accessible indoor basketball gym near downtown Houston, Texas, commonly called Fonde. It is known as a summer proving ground for college and NBA players, including Hakeem Olajuwon, Moses Malone and Clyde Drexler, and it remains the home of the Nike Houston Pro City summer league.",
+      "faqs": [
+        {
+          "q": "Is Fonde Recreation Center indoors or outdoors?",
+          "a": "Indoor. Fonde is a public recreation center gymnasium near downtown Houston, not an outdoor court."
+        },
+        {
+          "q": "Why is Fonde famous?",
+          "a": "Fonde is known for its summer basketball, which served as a proving ground for NCAA and NBA players. Among the most cited stories are the early-1980s duels between Moses Malone and Hakeem Olajuwon."
+        },
+        {
+          "q": "How do you pronounce Fonde?",
+          "a": "The gym is pronounced \"fon-DEE\" and is also commonly called Fonde Rec."
+        }
+      ],
+      "sources": [
+        {"title": "Fonde — Wikipedia", "url": "https://en.wikipedia.org/wiki/Fonde"},
+        {"title": "Fonde Recreation Center — City of Houston Parks", "url": "http://www.houstontx.gov/parks/fonderecreation.html"}
+      ]
+    },
+    {
+      "slug": "venice-beach-basketball-courts",
+      "name": "Venice Beach Basketball Courts",
+      "aka": "Venice Beach Courts",
+      "city": "Los Angeles",
+      "state": "CA",
+      "region": "Venice, Los Angeles",
+      "address": "1708-1798 Ocean Front Walk, Venice, CA",
+      "setting": "Outdoor",
+      "courts": "Four courts: three side by side plus a main court with bleachers",
+      "access": "Free and public",
+      "hours": "Not documented in cited sources",
+      "surface": "Asphalt and painted court surfaces",
+      "coords": "",
+      "notable": "Four asphalt courts on the sand at Venice Beach, adjacent to Muscle Beach. Three courts sit side by side, with one reserved for 5-on-5 play and two for 3-on-3; a separate main court with a blue surface and bleachers hosts the biggest crowds. The courts appeared in White Men Can't Jump and American History X.",
+      "quick_answer": "The Venice Beach Basketball Courts are four free public outdoor courts at 1708-1798 Ocean Front Walk in Venice, Los Angeles, California. Three courts sit side by side, with one reserved for 5-on-5 and two for 3-on-3, plus a main court with bleachers. The Venice Basketball League has run there since 2006.",
+      "faqs": [
+        {
+          "q": "How many basketball courts are at Venice Beach?",
+          "a": "Four. Three are located side by side, one for 5-on-5 play and two for 3-on-3. A separate main court sits to the north with bleachers for spectators."
+        },
+        {
+          "q": "Are the Venice Beach basketball courts free?",
+          "a": "Yes, they are free and public. Note that the City of Los Angeles has at times cordoned or locked the hoops, so availability can be affected by city policy."
+        },
+        {
+          "q": "What movies were filmed at the Venice Beach courts?",
+          "a": "The courts played a prominent role in the 1992 film White Men Can't Jump and appear in a pivotal basketball scene in American History X."
+        },
+        {
+          "q": "Is there a league at Venice Beach?",
+          "a": "Yes. The Venice Basketball League, also called Veniceball, has run at the courts since 2006, with a twelve-team summer season from early June to mid-August."
+        }
+      ],
+      "sources": [
+        {"title": "Must Hoop: The Venice Beach Basketball Courts — Courts of the World", "url": "https://www.courtsoftheworld.com/blog/must-hoop-the-venice-beach-basketball-courts/"},
+        {"title": "Inside the World of Venice Beach's Legendary Basketball Courts — Los Angeles Magazine", "url": "https://lamag.com/news/inside-the-world-of-venice-beachs-legendary-basketball-courts"}
+      ]
+    },
+    {
+      "slug": "mosswood-park",
+      "name": "Mosswood Park",
+      "aka": "Mosswood Recreation Center",
+      "city": "Oakland",
+      "state": "CA",
+      "region": "North Oakland",
+      "address": "3612 Webster St, Oakland, CA 94609",
+      "setting": "Outdoor",
+      "courts": "Basketball courts in a public park; the court count is not documented in the cited sources",
+      "access": "Free, public city park",
+      "hours": "Park is public; recreation center program hours vary",
+      "surface": "Not documented in cited sources",
+      "coords": "37.8236388,-122.2607141",
+      "notable": "The former Mosswood estate became a public park between 1909 and 1911, and the city notes the park has hosted pre-NBA basketball players on its courts along with significant cultural events. The 1864 Carpenter Gothic Moss mansion still stands at the center of the site.",
+      "quick_answer": "Mosswood Park is a free public park at 3612 Webster Street in Oakland, California, with outdoor basketball courts among its amenities. The former Mosswood estate became a public park between 1909 and 1911, and the city notes the park has hosted pre-NBA basketball players on its courts.",
+      "faqs": [
+        {
+          "q": "Does Mosswood Park have basketball courts?",
+          "a": "Yes. The City of Oakland lists basketball courts among the park's amenities, alongside a baseball field, tennis courts, a community garden, a stage and a playground."
+        },
+        {
+          "q": "Where is Mosswood Park?",
+          "a": "At 3612 Webster Street, Oakland, CA 94609, at the edge of downtown Oakland."
+        },
+        {
+          "q": "Is Mosswood Park free?",
+          "a": "Yes. Mosswood is a City of Oakland public park. Some facilities and programs can be reserved or registered for a fee."
+        },
+        {
+          "q": "What is the history of Mosswood Park?",
+          "a": "The park combines the names of 19th century Oaklanders J. Mora Moss and Julia Wood. Their 1864 Carpenter Gothic Victorian mansion still stands at the center of the site, and the former estate became a public park between 1909 and 1911."
+        }
+      ],
+      "sources": [
+        {"title": "Mosswood Recreation Center — City of Oakland", "url": "https://www.oaklandca.gov/Community/Parks-Facilities/Recreation-Centers/Mosswood-Recreation-Center"}
+      ]
+    },
+    {
+      "slug": "jackson-park",
+      "name": "Jackson Park Basketball Court",
+      "aka": "Andrew Jackson Park",
+      "city": "Chicago",
+      "state": "IL",
+      "region": "Woodlawn, Chicago",
+      "address": "6401 S Stony Island Ave, Chicago, IL 60637",
+      "setting": "Outdoor",
+      "courts": "Outdoor basketball courts within a 551-acre park; the court count is not documented in the cited sources",
+      "access": "Free, public park district facility",
+      "hours": "6:00 am to 9:00 pm daily",
+      "surface": "Not documented in cited sources",
+      "coords": "",
+      "notable": "Jackson Park is a 551-acre Olmsted and Vaux park that was the site of the 1893 World's Columbian Exposition. Its outdoor basketball courts are listed alongside three harbors, a beach, a golf course, pickleball and tennis courts, and the Museum of Science and Industry, which occupies the former Fine Arts Palace.",
+      "quick_answer": "Jackson Park Basketball Court is a free public outdoor court at 6401 South Stony Island Avenue in Chicago, Illinois, inside the 551-acre Jackson Park. The park is open 6:00 am to 9:00 pm daily and was the site of the 1893 World's Columbian Exposition.",
+      "faqs": [
+        {
+          "q": "What are the hours for Jackson Park?",
+          "a": "Jackson Park is open 6:00 am to 9:00 pm daily according to the Chicago Park District."
+        },
+        {
+          "q": "Is the Jackson Park basketball court free?",
+          "a": "Yes. It is a Chicago Park District outdoor court. Some other facilities in the park, such as the gymnasium and multi-purpose fields, are available for rental."
+        },
+        {
+          "q": "Where is the Jackson Park basketball court?",
+          "a": "At 6401 South Stony Island Avenue, Chicago, IL 60637, in the Woodlawn community area."
+        },
+        {
+          "q": "How big is Jackson Park?",
+          "a": "Jackson Park totals 551.52 acres. It was laid out by Frederick Law Olmsted and Calvert Vaux, the designers of New York's Central Park, and hosted the 1893 World's Columbian Exposition."
+        }
+      ],
+      "sources": [
+        {"title": "Jackson (Andrew) Park — Chicago Park District", "url": "https://www.chicagoparkdistrict.com/parks-facilities/jackson-andrew-park"}
+      ]
+    },
+    {
+      "slug": "grant-park",
+      "name": "Grant Park Basketball Courts",
+      "aka": "Grant Park",
+      "city": "Atlanta",
+      "state": "GA",
+      "region": "Grant Park, Atlanta",
+      "address": "840 Cherokee Ave SE, Atlanta, GA",
+      "setting": "Outdoor",
+      "courts": "2 courts",
+      "access": "Free, public city park",
+      "hours": "Not documented in cited sources",
+      "surface": "Not documented in cited sources",
+      "coords": "",
+      "notable": "A two-court public outdoor basketball site listed on the City of Atlanta Office of Parks register of outdoor basketball courts, alongside more than 50 other free public courts across the city.",
+      "quick_answer": "Grant Park Basketball Courts are two free public outdoor courts at 840 Cherokee Avenue SE in Atlanta, Georgia. They appear on the City of Atlanta Office of Parks list of outdoor basketball courts, which catalogues more than 50 free public courts citywide.",
+      "faqs": [
+        {
+          "q": "How many basketball courts are in Grant Park in Atlanta?",
+          "a": "Two. The City of Atlanta Office of Parks lists Grant Park at 840 Cherokee Ave SE with 2 courts."
+        },
+        {
+          "q": "Are Atlanta park basketball courts free?",
+          "a": "Yes. The courts on the City of Atlanta Office of Parks outdoor basketball court register are public park facilities and free to use."
+        },
+        {
+          "q": "How many public outdoor basketball courts does Atlanta have?",
+          "a": "The City of Atlanta Office of Parks register lists more than 50 park sites with outdoor basketball courts, ranging from a single court to four at Central Park."
+        }
+      ],
+      "sources": [
+        {"title": "List of Outdoor Basketball Courts — City of Atlanta Office of Parks", "url": "https://www.atlantaga.gov/government/departments/department-parks-recreation/office-of-parks/list-of-outdoor-basketball-courts"},
+        {"title": "Grant Park — Courts of the World", "url": "https://www.courtsoftheworld.com/united-states/atlanta-ga/grant-park/"}
+      ]
+    },
+    {
+      "slug": "green-lake-park",
+      "name": "Green Lake Park Basketball Courts",
+      "aka": "Green Lake Park",
+      "city": "Seattle",
+      "state": "WA",
+      "region": "Green Lake, Seattle",
+      "address": "7201 E Green Lake Dr N, Seattle, WA 98115",
+      "setting": "Outdoor",
+      "courts": "One full court and one half court, three hoops in total",
+      "access": "Free, public city park",
+      "hours": "Park open 4:00 am to 11:30 pm",
+      "surface": "Concrete",
+      "coords": "",
+      "notable": "Basketball courts next to the Green Lake Community Center, inside a park whose 2.8-mile paved inner loop is one of the busiest car-free recreation paths in Seattle. Seattle Parks lists basketball courts among the park's amenities.",
+      "quick_answer": "Green Lake Park Basketball Courts are free public outdoor courts at 7201 East Green Lake Drive North in Seattle, Washington. The site has one full court and one half court, three hoops in total, next to the Green Lake Community Center. The park is open 4:00 am to 11:30 pm.",
+      "faqs": [
+        {
+          "q": "How many basketball hoops are at Green Lake Park?",
+          "a": "Three: one full court and one half court, both lined."
+        },
+        {
+          "q": "What are Green Lake Park's hours?",
+          "a": "Seattle Parks lists Green Lake Park as open 4:00 am to 11:30 pm."
+        },
+        {
+          "q": "Is there lighting for night play at Green Lake?",
+          "a": "The cited sources do not document lighting at the Green Lake basketball courts specifically. Seattle Parks notes lighted courts at Jefferson Park and Solstice Park."
+        },
+        {
+          "q": "Where are the Green Lake basketball courts?",
+          "a": "Adjacent to the Green Lake Community Center inside Green Lake Park, at 7201 East Green Lake Drive North, Seattle, WA 98115."
+        }
+      ],
+      "sources": [
+        {"title": "Green Lake Park — Seattle Parks and Recreation", "url": "https://www.seattle.gov/parks/parks/green-lake-park"},
+        {"title": "Green Lake Park — Courts of the World", "url": "https://www.courtsoftheworld.com/united-states/seattle-wa/green-lake-park/"},
+        {"title": "Seattle Basketball Courts — beExploring", "url": "https://www.beexploring.com/explore/seattle/basketball-courts/"}
+      ]
+    },
+    {
+      "slug": "curtis-jones-park",
+      "name": "Curtis Jones Park",
+      "aka": "Curtis Jones Park",
+      "city": "Detroit",
+      "state": "MI",
+      "region": "NW Goldberg, Detroit",
+      "address": "NW Goldberg neighborhood, Detroit, MI; a street address is not stated in the cited source",
+      "setting": "Outdoor",
+      "courts": "One NBA-size outdoor court",
+      "access": "Free, public community park",
+      "hours": "Not documented in cited sources",
+      "surface": "Not documented in cited sources",
+      "coords": "",
+      "notable": "Built by the community development corporation NW Goldberg Cares and named for Curtis \"The Magician\" Jones, a neighborhood basketball prodigy who attended Northwestern High School. The site combines an NBA-size basketball court, a playground and community space.",
+      "quick_answer": "Curtis Jones Park is a free public outdoor basketball court in Detroit's NW Goldberg neighborhood with one NBA-size court. It was built by the community development corporation NW Goldberg Cares and named for Curtis \"The Magician\" Jones, a neighborhood basketball prodigy who attended Northwestern High School.",
+      "faqs": [
+        {
+          "q": "What size is the basketball court at Curtis Jones Park?",
+          "a": "One NBA-size outdoor court, according to the artist who worked on the park project with NW Goldberg Cares."
+        },
+        {
+          "q": "Who was Curtis Jones?",
+          "a": "Curtis \"The Magician\" Jones was a teenage basketball prodigy from Detroit's NW Goldberg neighborhood who attended Northwestern High School and was set to play at the University of Michigan. The community park was named in his honor."
+        },
+        {
+          "q": "Who built Curtis Jones Park?",
+          "a": "NW Goldberg Cares, a community development corporation in Detroit's NW Goldberg neighborhood, built the park as part of a neighborhood development initiative. The project included the court, a playground and community space."
+        }
+      ],
+      "sources": [
+        {"title": "Curtis Jones Park — Bisco Smith", "url": "https://biscosmith.com/pages/curtis-jones-park"}
+      ]
+    },
+    {
+      "slug": "ramsay-park",
+      "name": "Ramsay Park",
+      "aka": "David L. Ramsay Memorial",
+      "city": "Boston",
+      "state": "MA",
+      "region": "Roxbury, Boston",
+      "address": "Boston, MA; a street address is not stated in the cited source",
+      "setting": "Outdoor",
+      "courts": "2 basketball courts",
+      "access": "Free, public city park",
+      "hours": "Not documented in cited sources",
+      "surface": "Not documented in cited sources",
+      "coords": "",
+      "notable": "Two public basketball courts in a Boston neighborhood park. Boston Parks and Recreation's own site analysis documents that the existing courts were to remain in their current location and layout, renovated with fresh paint, hoops and lighting. The park also holds a memorial to David L. Ramsay and other fallen first responders.",
+      "quick_answer": "Ramsay Park is a free public park in Boston, Massachusetts, with two outdoor basketball courts. Boston Parks and Recreation documented plans to keep the courts in their existing location and layout and renovate them with fresh paint, hoops and lighting.",
+      "faqs": [
+        {
+          "q": "How many basketball courts are at Ramsay Park?",
+          "a": "Two. Boston Parks and Recreation's Ramsay Park site analysis lists 2 basketball courts among the park's facilities."
+        },
+        {
+          "q": "Were the Ramsay Park courts renovated?",
+          "a": "Boston Parks documented a plan for the existing basketball courts to remain in their current location and layout and be renovated with fresh paint, hoops and lighting. The court equipment was also noted as outdated athletic lighting in the site analysis."
+        },
+        {
+          "q": "What else is at Ramsay Park?",
+          "a": "The park includes a playground, a splash pad area, tennis courts, a fitness station, a community gathering space and a memorial to David L. Ramsay and other fallen heroes."
+        }
+      ],
+      "sources": [
+        {"title": "Ramsay Park — Site Analysis, Boston Parks and Recreation", "url": "https://search.boston.gov/sites/default/files/file/document_files/2017/02/ramsay_2017imps_mtg1presentation.pdf"}
+      ]
+    }
+  ]
+}
