@@ -71,7 +71,8 @@ a{color:inherit}
     radial-gradient(620px 340px at 8% 108%, rgba(252,76,2,.10), transparent 60%);
   pointer-events:none;
 }
-.hero-in{position:relative;padding:56px 0 52px;display:grid;gap:34px}
+.hero-in{position:relative;padding:34px 0 46px;display:grid;gap:30px}
+@media(min-width:768px){.hero-in{padding:56px 0 52px}}
 .eyebrow{
   font-family:var(--display);text-transform:uppercase;letter-spacing:.16em;
   font-size:12.5px;font-weight:600;color:var(--brand);margin:0 0 14px;
@@ -444,7 +445,16 @@ footer a:hover{color:var(--brand);text-decoration:underline;text-underline-offse
         <h1>Where America<br>actually plays:<br><span class="hl">courts worth the trip.</span></h1>
         <p class="lede">A sourced field guide to America&#x27;s public outdoor basketball courts. Every court here is a real public park or public facility, and every
         claim traces back to a named source you can open yourself.</p>
-        <div class="stats">
+
+        <div class="qa-card" style="margin-top:24px">
+          <p class="qa-lbl"><i class="bi bi-lightning-charge-fill" aria-hidden="true"></i>Quick answer</p>
+          <p>This guide documents 12 public outdoor basketball courts across 8 U.S. states, from
+          the West 4th Street Courts in Manhattan to Venice Beach in Los Angeles. Every entry is built from a named
+          primary source — usually a city parks department — and fields that source does not establish are marked not
+          documented rather than estimated.</p>
+        </div>
+
+        <div class="stats" style="margin-top:22px">
           <div class="stat"><b>12</b><span>Courts</span></div>
           <div class="stat"><b>8</b><span>States</span></div>
           <div class="stat"><b>9</b><span>Cities</span></div>
@@ -453,14 +463,6 @@ footer a:hover{color:var(--brand);text-decoration:underline;text-underline-offse
           <a class="btn btn-p" href="#courts"><i class="bi bi-grid-3x3-gap" aria-hidden="true"></i>Browse the guide</a>
           <a class="btn btn-g" href="#method"><i class="bi bi-list-check" aria-hidden="true"></i>How entries are sourced</a>
         </div>
-      </div>
-
-      <div class="qa-card">
-        <p class="qa-lbl"><i class="bi bi-lightning-charge-fill" aria-hidden="true"></i>Quick answer</p>
-        <p>This guide documents 12 public outdoor basketball courts across 8 U.S. states, from
-        the West 4th Street Courts in Manhattan to Venice Beach in Los Angeles. Every entry is built from a named primary
-        source — usually a city parks department — and fields that source does not establish are marked not documented
-        rather than estimated.</p>
       </div>
     </div>
   </section>
